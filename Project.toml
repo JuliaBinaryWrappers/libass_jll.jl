@@ -1,6 +1,6 @@
 name = "libass_jll"
 uuid = "0ac62f75-1d6f-5e53-bd7c-93b484bb37c0"
-version = "0.15.2+0"
+version = "0.17.4+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,10 +13,10 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 FriBidi_jll = "559328eb-81f9-559d-9380-de523a88c83c"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
-Bzip2_jll = "1.0.8"
-FreeType2_jll = "2.10.4"
+Bzip2_jll = "1.0.9"
+FreeType2_jll = "2.13.4"
 Libdl = "< 0.0.1, 1"
-HarfBuzz_jll = "8.3.1"
+HarfBuzz_jll = "8.5.1"
 Artifacts = "< 0.0.1, 1"
