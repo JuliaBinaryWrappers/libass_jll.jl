@@ -1,6 +1,6 @@
 name = "libass_jll"
 uuid = "0ac62f75-1d6f-5e53-bd7c-93b484bb37c0"
-version = "0.17.4+0"
+version = "0.17.5+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -18,5 +18,5 @@ julia = "1.6"
 Bzip2_jll = "1.0.9"
 FreeType2_jll = "2.13.4"
 Libdl = "< 0.0.1, 1"
-HarfBuzz_jll = "8.5.1"
+HarfBuzz_jll = "100.14003"
 Artifacts = "< 0.0.1, 1"
